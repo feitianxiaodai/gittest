@@ -1,2 +1,3 @@
 this is a branch with ubuntu.
-Test GIT merge and git fetch. 
+Test GIT merge and git fetch.
+Git pull. 
