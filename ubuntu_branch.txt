@@ -1,7 +1,7 @@
 this is a branch with ubuntu.
+hahaha
+new line.
+ anot  hshsh.
 
-Test GIT merge and git fetch.
-Git pull. 
 
-add new remote branch. 
 
